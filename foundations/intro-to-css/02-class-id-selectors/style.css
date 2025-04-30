@@ -9,17 +9,16 @@
 
 .fontsize {
     font-size: 30px;
-    ;
 }
 
-#background-color {
-    background-color: #61eb9f;
-}
-
-.fontsize-42px {
+#secondline {
+    color: #2f2fd4;
     font-size: 42px;
 }
 
-.weight {
+
+#fourthline {
     font-weight: bold;
+    font-size: 30px;
+    background-color: #65ee8a;
 }
